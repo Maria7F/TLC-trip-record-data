@@ -10,11 +10,11 @@
 
 
 #### Tools:
-* Pandas
-* Geopandas
-* Plotly
-* Seaborn
-* Matplotlib
+*	Python and Jupyter Notebook 
+*	Numpy and Pandas for data manipulation 
+*	Matplotlib and Seaborn for plotting visuialization 
+*	Folium for for visualizing geospatial data 
+*	Sklearn for LinearRegression
 
 #### Dataset Link:
 [TLC Trip Record Data](https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page)
