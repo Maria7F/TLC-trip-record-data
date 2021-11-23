@@ -3,8 +3,8 @@
 #### Question/need:
 * can you pridict the time of the trip?
 * is the price differ between taxi and lyft?
-* can you predict the price of the trop?
-* lyft founded in 2012 how does it looks in line plot comoaring with uber and taxi?
+* can you predict the price of the trip?
+* lyft founded in 2012 how does it looks in line plot comparing it with uber and taxi through the years?
 
 #### Data Description:
 * The yellow and green taxi trip records include fields capturing pick-up and drop-off dates/times, pick-up and drop-off locations, trip distances, itemized fares, rate types, payment types, and driver-reported passenger counts.
