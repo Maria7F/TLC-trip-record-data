@@ -5,6 +5,13 @@
 
 
 #### Question/need:
+* predict most pickup zone
+* pridict the time of the trip
+* is the price differ between taxi and lyft?
+* can you predict the price of the trip?
+* lyft founded in 2012 how does it looks in line plot comparing it with uber and taxi through the years?
+
+#### EDA
 * visualize the average yellow trip per day 2019-10
 * visualize the average green trip per day 2019-10
 * visualize the average FHV trip per day 2019-10
@@ -14,10 +21,7 @@
 * display most drop off zone
 * correlation of the taxi price with the distance trip
 * visualize the highest and lowest choosen company in per day and the pickup and drop off zone on 2019-10
-* can you pridict the time of the trip?
-* is the price differ between taxi and lyft?
-* can you predict the price of the trip?
-* lyft founded in 2012 how does it looks in line plot comparing it with uber and taxi through the years?
+
 
 #### Data Description:
 * The yellow and green taxi trip records include fields capturing pick-up and drop-off dates/times, pick-up and drop-off locations, trip distances, itemized fares, rate types, payment types, and driver-reported passenger counts.
