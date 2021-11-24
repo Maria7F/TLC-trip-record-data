@@ -11,7 +11,8 @@
 * visualize the average high volume FHV trip per day 2019-10
 * display total profit amount for each company
 * display most pickup zone
-* * display most drop off zone
+* display most drop off zone
+* correlation of the taxi price with the distance trip
 * visualize the highest and lowest choosen company in per day and the pickup and drop off zone on 2019-10
 * can you pridict the time of the trip?
 * is the price differ between taxi and lyft?
