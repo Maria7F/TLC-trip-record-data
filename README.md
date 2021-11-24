@@ -5,24 +5,24 @@
 
 
 #### Question/need:
-* predict most pickup zone
-* pridict the time of the trip
-* predict the price of the trip?
-* predict waiting time and the total profit amount
+* Predict most pickup zone
+* Pridict the time of the trip
+* Predict the price of the trip?
+* Predict waiting time and the total profit amount
 
 
 #### EDA:
-* visualize the average yellow trip per day 2019-10
-* visualize the average green trip per day 2019-10
-* visualize the average FHV trip per day 2019-10
-* visualize the average high volume FHV trip per day 2019-10
-* display total profit amount for each company
-* display most pickup zone
-* display most drop off zone
-* correlation of the taxi price with the distance trip
-* visualize the highest and lowest choosen company in per day and the pickup and drop off zone on 2019-10
-* visualize which is the most shared or singlr rides
-* is the price differ between taxi and other companies?
+* Visualize the average yellow trip per day 2019-10
+* Visualize the average green trip per day 2019-10
+* Visualize the average FHV trip per day 2019-10
+* Visualize the average high volume FHV trip per day 2019-10
+* Display total profit amount for each company
+* Display most pickup zone
+* Display most drop off zone
+* Correlation of the taxi price with the distance trip
+* Visualize the highest and lowest choosen company in per day and the pickup and drop off zone on 2019-10
+* Visualize which is the most shared or singlr rides
+* Is the price differ between taxi and other companies?
 
 
 
