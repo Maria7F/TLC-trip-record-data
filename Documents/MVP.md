@@ -10,7 +10,7 @@
 
 
 #### Peak Hours for Yellow and Green
-* In this analysis will show you the peak hours of the drop off and pick ups I used a line plot pickup times and the reduduncy of it 
+* In this analysis will show you the peak hours of pick ups only I used a line plot pickup times and the reduduncy of it 
 <img src="/Imgs/peakHoursYellowGreen.png" width=500>
 
 
