@@ -5,26 +5,9 @@
 
 
 #### Question/need:
-* Predict most pickup zone
-* Pridict the time of the trip
-* Predict the price of the trip?
-* Predict waiting time and the total profit amount
-
-
-#### EDA:
-* Visualize the average yellow trip per day 2019-10
-* Visualize the average green trip per day 2019-10
-* Visualize the average FHV trip per day 2019-10
-* Visualize the average high volume FHV trip per day 2019-10
-* Display total profit amount for each company
-* Display most pickup zone
-* Display most drop off zone
-* Correlation of the taxi price with the distance trip
-* Visualize the highest and lowest choosen company in per day and the pickup and drop off zone on 2019-10
-* Visualize which is the most shared or singlr rides
-* Is the price differ between taxi and other companies?
-
-
+* Can you predict the fare ammount of the trip?
+* What are the peak hours?
+* Visualize the correlation between features and target.
 
 #### Data Description:
 * The yellow and green taxi trip records include fields capturing pick-up and drop-off dates/times, pick-up and drop-off locations, trip distances, itemized fares, rate types, payment types, and driver-reported passenger counts.
