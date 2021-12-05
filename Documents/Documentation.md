@@ -31,8 +31,11 @@ The dataset contains ~4,000,000 taxi rides with 18 features for each, 13 of whic
 4. Extract the Day and Hours from the dates
 5. Linear regression model
 
-<!-- *Models* -->
-  
+## Models
+* Ordinary least square regression 
+* Linear regression
+* Polynomial Regression
+* Evaluation regression (RMSE - MAE)
 
 
 ## Tools
@@ -44,7 +47,7 @@ The dataset contains ~4,000,000 taxi rides with 18 features for each, 13 of whic
 
 ## Visualization
 - Peak Days 
-<!-- <img src="/Imgs/peakdays.png" width=500> -->
+<img src="/Imgs/peakdays.png" width=500>
 
 - Peak Hours 
-<!-- <img src="/Imgs/peakhours.png" width=500> -->
+<img src="/Imgs/peakhours.png" width=500>
