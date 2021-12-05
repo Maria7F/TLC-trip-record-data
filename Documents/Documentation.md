@@ -43,8 +43,8 @@ The dataset contains ~4,000,000 taxi rides with 18 features for each, 13 of whic
 *	Sklearn for LinearRegression
 
 ## Visualization
-- Line plot 
-<!-- <img src="criticalFlag.png" width=500> -->
+- Peak Days 
+<!-- <img src="/Imgs/peakdays.png" width=500> -->
 
-- Histograph plot
-<!-- <img src="map.png" width=500> -->
+- Peak Hours 
+<!-- <img src="/Imgs/peakhours.png" width=500> -->
